@@ -6,10 +6,15 @@
 - **Neo (Chief Developer)**: Active. Dashboard scaffolding.
 
 ## 📈 Metric Summary
-- **Anthropic Tokens**: 0
-- **Gemini Tokens**: 0
-- **Total Cost**: /bin/zsh.00
-- **Commits Made**: 8
+- **Anthropic Tokens (Input)**: 0
+- **Anthropic Tokens (Output)**: 0
+- **Total Cost**: $0.0000
+- **Commits Made**: 1
+
+## 📝 Pending Tasks
+- Finish setting up Neo Discord Bot
+- Design Agents Page Specs
+- Create Browser-Reading Agent for billing cost capture
 
 ## 🛡 Status
 - **Status**: Stable.
