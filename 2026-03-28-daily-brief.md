@@ -6,9 +6,9 @@
 - **Neo (Chief Developer)**: Active. Dashboard scaffolding.
 
 ## 📈 Metric Summary
-- **Anthropic Tokens (Input)**: 
-- **Anthropic Tokens (Output)**: 
-- **Total Cost**: $
+- **Anthropic Tokens (Input)**: 0
+- **Anthropic Tokens (Output)**: 0
+- **Total Cost**: $0.00
 - **Commits Made**: 1
 
 ## 📝 Pending Tasks
