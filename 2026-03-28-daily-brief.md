@@ -8,7 +8,7 @@
 ## 📈 Metric Summary
 - **Anthropic Tokens (Input)**: 0
 - **Anthropic Tokens (Output)**: 0
-- **Total Cost**: $0.00
+- **Total Cost**: $0
 - **Commits Made**: 1
 
 ## 📝 Pending Tasks
