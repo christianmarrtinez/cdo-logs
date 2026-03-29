@@ -1,15 +1,19 @@
 # Daily Brief: 2026-03-28
 
 ## 🚀 Agent Activity
-- **Jarvis (COO)**: Active. Pipeline maintenance & manual catch-up.
+- **Jarvis (COO)**: Active. Pipeline maintenance.
 - **Ada (CDO)**: Automated cycle resumed.
 - **Neo (Chief Developer)**: Active. Dashboard scaffolding.
 
 ## 📈 Metric Summary
-- **Anthropic Tokens (Input)**: 0
-- **Anthropic Tokens (Output)**: 0
+- **Input Tokens**: 0
+- **Output Tokens**: 0
 - **Total Cost**: $0
-- **Commits Made**: 1
+
+## ✅ Completed Tasks
+- Schema migration
+- Usage Costs UI integration
+- Repository initialization
 
 ## 📝 Pending Tasks
 - Finish setting up Neo Discord Bot
