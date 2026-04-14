@@ -1,4 +1,4 @@
-# Daily Brief: 2026-04-06
+# Daily Brief: 2026-04-13
 
 ## 🚀 Agent Activity
 - **Jarvis (COO)**: Active. Pipeline maintenance.
@@ -9,13 +9,23 @@
 
 ## 🐙 GitHub Overnight
 ### czon-dashboard
-- No activity
+- 2026-04-13T03:11 feat: fix Usage & Costs metrics and wire Roto/Zuma avatars
 ### cdo-logs
-- No activity
+- 2026-04-13T23:21 fix: backfill corrected briefs for 2026-04-03 through 2026-04-12
+- 2026-04-13T02:52 chore: nightly brief for 2026-04-11
+- 2026-04-13T02:52 chore: nightly brief for 2026-04-10
+- 2026-04-13T02:52 chore: nightly brief for 2026-04-09
+- 2026-04-13T02:52 chore: nightly brief for 2026-04-08
+- 2026-04-13T02:52 chore: nightly brief for 2026-04-07
+- 2026-04-13T02:52 chore: nightly brief for 2026-04-06
+- 2026-04-13T02:52 chore: nightly brief for 2026-04-05
+- 2026-04-13T02:52 chore: nightly brief for 2026-04-04
+- 2026-04-13T02:52 chore: nightly brief for 2026-04-03
 ### twitter-scraper-costs-service
 - No activity
 ### ada-documentation-service
-- No activity
+- 2026-04-13T23:30 feat: migrate to Node.js Cloud Run service + fix auditor schema bugs
+- 2026-04-13T12:45 Initial commit for Ada Documentation Service
 ### whop-webhook-service
 - No activity
 ### Open PRs
@@ -40,9 +50,9 @@
 - [ ] Build Twitter Marketing Agent Pipeline (added: 2026-03-29)
 ## 📈 Metric Summary
 
-- **Input Tokens**: 0
-- **Output Tokens**: 0
-- **Twitter API Spend**: $0.0000
-- **Anthropic Cost**: $0.0000
-- **Gemini Cost**: $0.0000
-- **Total Cost**: $0.0000
+- **Input Tokens**: 11,218,452
+- **Output Tokens**: 135,884
+- **Twitter API Spend**: $1.1250
+- **Anthropic Cost**: $7.5594
+- **Gemini Cost**: $0.4862
+- **Total Cost**: $8.0456

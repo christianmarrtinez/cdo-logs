@@ -52,7 +52,9 @@
 - [ ] Build Twitter Marketing Agent Pipeline (added: 2026-03-29)
 ## 📈 Metric Summary
 
-- **Input Tokens**: 26444109
-- **Output Tokens**: 282089
-- **Twitter API Spend**: $0
-- **Total Cost**: $0.5
+- **Input Tokens**: 26,444,109
+- **Output Tokens**: 282,089
+- **Twitter API Spend**: $0.0000
+- **Anthropic Cost**: $18.2473
+- **Gemini Cost**: $5.7658
+- **Total Cost**: $24.0131

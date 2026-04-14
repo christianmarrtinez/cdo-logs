@@ -44,5 +44,7 @@
 
 - **Input Tokens**: 0
 - **Output Tokens**: 0
-- **Twitter API Spend**: $0
-- **Total Cost**: $0.5
+- **Twitter API Spend**: $0.0000
+- **Anthropic Cost**: $0.0000
+- **Gemini Cost**: $1.0801
+- **Total Cost**: $1.0801
